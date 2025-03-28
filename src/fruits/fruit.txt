@@ -1,0 +1,145 @@
+        <section id="vetements">
+            <h1 class="text-center mt-4 fw-bold text-decoration-underline">Vétements</h1>
+            <div class="container my-5">
+                <div class="row">
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy.png" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 2.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 3.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container my-5">
+                <div class="row">
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 4.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 5.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 6.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container my-5">
+                <div class="row">
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 7.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 8.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 9.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container my-5">
+                <div class="row">
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 10.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy 11.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card" style="width: 18rem;">
+                            <img src="../images/fruits/image copy.png" alt="vetements" class="po1">
+                            <div class="card-body">
+                                <h5 class="card-title text-danger fw-bold fs-2">1000fcfa</h5>
+                                <p class="card-text text-center">Vetement en coton</p>
+                                <a href="#" class="btn btn-primary w-100">Mettre au panier</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>

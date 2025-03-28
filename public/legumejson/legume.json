@@ -1,0 +1,22 @@
+[
+    {
+        "image": "/images/legumes/image.png",
+        "description": "Fruit frais et delicieux",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/legumes/image copy.png",
+        "description": "Fruit frais et delicieux",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/legumes/image copy 2.png",
+        "description": "Fruit frais et delicieux",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/legumes/image copy 3.png",
+        "description": "Fruit frais et delicieux",
+        "prix": "1000 fcfa"
+    }
+]

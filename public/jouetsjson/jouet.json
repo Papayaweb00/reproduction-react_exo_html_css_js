@@ -1,0 +1,42 @@
+[
+    {
+        "image": "/images/jouets/image.png",
+        "description": "Jouet de qualite(haute gamme)",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/jouets/image copy.png",
+        "description": "Jouet de qualite(haute gamme)",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/jouets/image copy 2.png",
+        "description": "Jouet de qualite(haute gamme)",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/jouets/image copy 3.png",
+        "description": "Jouet de qualite(haute gamme)",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/jouets/image copy 4.png",
+        "description": "Jouet de qualite(haute gamme)",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/jouets/image copy 5.png",
+        "description": "Jouet de qualite(haute gamme)",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/jouets/image copy 6.png",
+        "description": "Jouet de qualite(haute gamme)",
+        "prix": "1000 fcfa"
+    },
+    {
+        "image": "/images/jouets/image copy 7.png",
+        "description": "Jouet de qualite(haute gamme)",
+        "prix": "1000 fcfa"
+    }
+]
