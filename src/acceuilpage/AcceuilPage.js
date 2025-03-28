@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import '../index.css'
 import VueProd from '../carrouselproduits/VueProd';
 import NavBar from '../navbar_et_footer/NavBar';
-import { v4 as uuidv4 } from 'uuid';
 // import { Link } from 'react-router-dom';
 
 function AcceuilPage() {
@@ -13,8 +12,7 @@ function AcceuilPage() {
     const [loading, setLoading] = useState(true);
     const [erreur, setError] = useState(null)
     const [n, setN] = useState(0);
-    const [mettre, setMettre] = useState('Mettre au panier');
-    const identifiant = uuidv4();
+    // const [mettre, setMettre] = useState('Mettre au panier');
 
 
     useEffect(() => {
@@ -102,14 +100,19 @@ function AcceuilPage() {
                             <div className="card-body">
                                 <h5 className="fw-bold card-title">{prod.description}</h5>
                                 <h5 className="text-danger fw-bold card-text">{prod.prix}</h5>
-                                <a href='/panier' id={identifiant} className="btn btn-primary w-100" onClick={(e) => {
-                                    e.preventDefault();
-                                    console.log(e.target.closest('.card'));
-                                    setN(n + 1);
-                                    const btnId = e.target.id;
-                                    setMettre(btnId)
-                                    console.log(btnId);
-                                }}>{mettre === identifiant ? 'Voir panier' : 'Mettre au panier'}</a>
+                                <div className='d-flex flex-column gap-3'>
+                                    <button className="btn btn-primary w-100" onClick={(e) => {
+                                        e.preventDefault();
+                                        console.log(e.target.closest('.card'));
+                                        setN(n + 1);
+                                    }}>Mettre au panier</button>
+                                    <a href='/panier' className="btn btn-primary w-100" onClick={(e) => {
+                                        e.preventDefault();
+                                        console.log(e.target.closest('.card'));
+                                        setN(n + 1);
+
+                                    }}>Voir le panier</a>
+                                </div>
                             </div>
                         </div>
                     ))
@@ -128,8 +131,7 @@ function AcceuilPage() {
                                     e.preventDefault();
                                     console.log(e.target.closest('.card'));
                                     setN(n + 1);
-                                    setMettre('Voir panier')
-                                }}>{mettre}</a>
+                                }}>Mettre au panier</a>
                             </div>
                         </div>
                     ))
@@ -148,8 +150,7 @@ function AcceuilPage() {
                                     e.preventDefault();
                                     console.log(e.target.closest('.card'));
                                     setN(n + 1);
-                                    setMettre('Voir panier')
-                                }}>{mettre}</a>
+                                }}>Mettre au panier</a>
                             </div>
                         </div>
                     ))
